@@ -2,8 +2,8 @@
 In this repository, you can find the code from my Short Bits segments on [**EditTexts**](https://www.youtube.com/watch?v=tP5Q4XSl3HA) from the [**IJ Apps YouTube channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg). Go ahead and copy the files to try it out for yourself and subscribe to the [**IJ Apps channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)!
 
 - **Get the Code:**
-   - [*Java File*]()
-   - [*XML File*]()
+   - [*Java File*](https://github.com/IJ-Apps/EditText/blob/master/MainActivity.java)
+   - [*XML File*](https://github.com/IJ-Apps/EditText/blob/master/activity_main.xml)
 - [**Video Link**](https://www.youtube.com/watch?v=tP5Q4XSl3HA)
 - Subscribe to IJ Apps: [**IJ Apps YouTube Channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)
 ## [**My Cool Personal Projects**](https://github.com/ishaanjav): Username - ishaanjav
