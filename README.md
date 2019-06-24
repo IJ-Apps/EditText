@@ -4,7 +4,7 @@ Here, you can find the code from my Short Bits segments on [**EditTexts**]() fro
 - **Get the Code:**
    - [*Java File*]()
    - [*XML File*]()
-- [**Video Link**]()
+- [**Video Link**](https://www.youtube.com/watch?v=tP5Q4XSl3HA)
 - Subscribe to IJ Apps: [**IJ Apps YouTube Channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)
 ## [**My Cool Personal Projects**](https://github.com/ishaanjav): Username - ishaanjav
 
