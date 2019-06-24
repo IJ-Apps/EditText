@@ -2,7 +2,7 @@
 Here, you can find the code from my Short Bits segments on [**EditTexts**]() from the [**IJ Apps YouTube channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg). Go ahead and copy the files to try it out for yourself and subscribe to the [**IJ Apps channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)!
 
 - **Get the Code:**
-   - [*Java Code]()
+   - [*Java Code*]()
    - [*XML Code*]()
 - [**Video Link**]()
 - Subscribe to IJ Apps: [**IJ Apps YouTube Channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)
