@@ -4,7 +4,7 @@ In this repository, you can find the code from my Short Bits segments on [**Edit
 - **Get the Code:**
    - [*Java File*](https://github.com/IJ-Apps/EditText/blob/master/MainActivity.java)
    - [*XML File*](https://github.com/IJ-Apps/EditText/blob/master/activity_main.xml)
-- [**Video Links:**]
+- **Video Links:**
    - [*Using EditTexts*](https://www.youtube.com/watch?v=tP5Q4XSl3HA)
    - [*EditText Attributes*](https://www.youtube.com/watch?v=MoIg0TRbYK8)
 - Subscribe to IJ Apps: [**IJ Apps YouTube Channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)
