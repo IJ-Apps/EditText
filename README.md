@@ -10,4 +10,5 @@ In this repository, you can find the code from my Short Bits segments on [**Edit
 
 For more cool and complex projects using tools such as the Microsoft Face API, Kairos Facial Recognition API, and Google Cloud Platform, check out [**my other GitHub account**](https://github.com/ishaanjav) with these cool repositories.
 
-[![YouTube thumbnail of video](https://github.com/IJ-Apps/EditText/blob/master/ShortBit14%20-%20EditTexts.PNG)](https://www.youtube.com/watch?v=tP5Q4XSl3HA "EditTexts")
+[<img align = "left" src="https://github.com/IJ-Apps/EditText/blob/master/ShortBit14%20-%20EditTexts.PNG" width="47%">](https://www.youtube.com/watch?v=tP5Q4XSl3HA "EditTexts")
+[<img align = "left" src="https://github.com/IJ-Apps/EditText/blob/master/SB15.PNG" width="48%">](https://www.youtube.com/watch?v=tP5Q4XSl3HA "EditTexts")
